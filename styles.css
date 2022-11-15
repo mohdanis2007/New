@@ -1,0 +1,18 @@
+
+body {
+  background-color: #ff00ff;
+}
+
+h1 {
+  font-size: 200px;
+  font-style: italic;
+  text-align: center;
+}
+
+img {
+  height: 500px;
+  width: 500px;
+  position: relative;
+  padding-left: 700px;
+
+}
